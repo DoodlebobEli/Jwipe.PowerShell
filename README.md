@@ -1,16 +1,16 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Stream Labs - Software Installed Check</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
-<br />
+In this project, I dolve into the realm of PowerShell scripting to create a user-friendly experience for installing software. Whether you're a seasoned IT professional or a novice user, our step-by-step guide will walk you through the process, empowering you to effortlessly execute or install software with just a few simple commands. 
 
 
 <h2>Languages and Utilities Used</h2>
 
 - <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Folders</b>
+- <b>Downloads</b>
+
 
 <h2>Environments Used </h2>
 
