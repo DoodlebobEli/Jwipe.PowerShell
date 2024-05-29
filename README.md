@@ -19,31 +19,42 @@ In this project, I dolve into the realm of PowerShell scripting to create a user
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Getting to Directory: <br/>
 
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![Screenshot (22)](https://github.com/DoodlebobEli/Jwipe.PowerShell/assets/170838640/c4c8d1d3-5aea-481a-b18f-d85c723100df)
+
+
+List of all downloads Names:  <br/>
+
+![Screenshot (35)](https://github.com/DoodlebobEli/Jwipe.PowerShell/assets/170838640/cc6ad73b-8eae-4a92-a37d-2f5285dea505)
+
+
+
+
+
+![Screenshot (23)](https://github.com/DoodlebobEli/Jwipe.PowerShell/assets/170838640/4deac071-8183-4f60-94f3-46d618868881)
+
+
+Going back to folders to verify: <br/>
+
+![Screenshot (24)](https://github.com/DoodlebobEli/Jwipe.PowerShell/assets/170838640/47bf33a0-3673-43e8-9c22-14b6efec3f60)
+
+
+Software starting process:  <br/>
+
+![Screenshot (34)](https://github.com/DoodlebobEli/Jwipe.PowerShell/assets/170838640/5e5768e2-216a-4f85-b3dc-e45c92bd254c)
+
+
+Should pop up something like this (asking you if you want to install):  <br/>
+
+![IMG_9116](https://github.com/DoodlebobEli/Jwipe.PowerShell/assets/170838640/a7602ecd-9933-4f00-80d6-b7850698d5f4)
+
+
+
+Finished product:  <br/>
+
+![Screenshot (33)](https://github.com/DoodlebobEli/Jwipe.PowerShell/assets/170838640/59a1b3bf-4cf7-4b93-bb78-1f55f17cc03a)
+
 
 <!--
  ```diff
@@ -54,3 +65,9 @@ Observe the wiped disk:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
+
+
+PowerShell simplifies software installation with straightforward commands. Say goodbye to manual setups and hello to automation. It's quick, reliable, and ensures every installation is done right. Plus, if you ever need a hand, there's a helpful community ready to assist. Experience hassle-free software installation with PowerShell. I used the basics formed of comands and information about powershell. You can also learn these things as well on powershooting Automate Routine,Tasks,Manage Active Directory,Deploy Software, and Monitor System Performance.
+
+
+
