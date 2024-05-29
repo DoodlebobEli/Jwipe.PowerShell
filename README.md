@@ -1,6 +1,6 @@
 <h1>Stream Labs - Software Installed Check</h1>
 
-
+![Streamlabs-logo](https://github.com/joshmadakor1/Jwipe.PowerShell/assets/170838640/f2caf694-6015-40c3-b6ea-048f63c7f821)
 <h2>Description</h2>
 In this project, I dolve into the realm of PowerShell scripting to create a user-friendly experience for installing software. Whether you're a seasoned IT professional or a novice user, our step-by-step guide will walk you through the process, empowering you to effortlessly execute or install software with just a few simple commands. 
 
@@ -20,9 +20,7 @@ In this project, I dolve into the realm of PowerShell scripting to create a user
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 Select the disk:  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
